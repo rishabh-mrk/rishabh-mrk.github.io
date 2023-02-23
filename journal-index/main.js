@@ -15,7 +15,7 @@ journalDetails = {
 	'Pallavi_Suresh_Verma': 'https://pallavimirketa.github.io/Journal.html',
 	'Pragam_Kaistha': 'https://pragammirketa.github.io/journal.html',
 	'Prashant_Singh': 'https://prashantsinghmirketa.github.io/Journal.html',
-	'Sanidhya_Varshney': 'https://sanidhyavarshneymirketa.github.io/journal.html'
+	'Sanidhya_Varshney': 'https://sanidhyavarshneymirketa.github.io/journal.html',
 	'Shivank': 'https://shivankmirketa.github.io/Journal.html',
 	'Surbhi_Yadav': 'https://surbhiyadavmirketa.github.io/journal.html'
     
