@@ -6,7 +6,7 @@ journalDetails = {
 	'Avinash_Patel': 'https://avinashmirketa.github.io/journal.html',
 	'Ayush_Misra': 'https://ayushmirketa.github.io/Journal.html',
 	'Devang_Tiwari': 'https://devangmirketa.github.io/journal.html',
-	'Ayushi_Kotiyal': 'https://ayushimirketa.github.io/journal.html'
+	'Ayushi_Kotiyal': 'https://ayushimirketa.github.io/journal.html',
 	'Harshit_Kandpal': 'https://harshitkandpalmirketa.github.io/Journal.html',
 	'Harshit_Kumar': 'https://harshitkumarmirketa.github.io/journal.html',
 	'Jay_Pratap': 'https://jaypratapmirketa.github.io/journal.html',
@@ -17,7 +17,7 @@ journalDetails = {
 	'Pragam_Kaistha': 'https://pragammirketa.github.io/journal.html',
 	'Prashant_Singh': 'https://prashantsinghmirketa.github.io/Journal.html',
 	'Pushkar_Raja': 'https://pushkarrajamirketa.github.io/journal.html',
-	'Ridham_Godha': 'https://ridhammirketa.github.io/journal.html'
+	'Ridham_Godha': 'https://ridhammirketa.github.io/journal.html',
 	'Sanidhya_Varshney': 'https://sanidhyavarshneymirketa.github.io/journal.html',
 	'Shivank': 'https://shivankmirketa.github.io/Journal.html',
 	'Surbhi_Yadav': 'https://surbhiyadavmirketa.github.io/journal.html',
