@@ -17,7 +17,7 @@ journalDetails = {
 	'Prashant_Singh': 'https://prashantsinghmirketa.github.io/Journal.html',
 	'Sanidhya_Varshney': 'https://sanidhyavarshneymirketa.github.io/journal.html',
 	'Shivank': 'https://shivankmirketa.github.io/Journal.html',
-	'Surbhi_Yadav': 'https://surbhiyadavmirketa.github.io/journal.html'
+	'Surbhi_Yadav': 'https://surbhiyadavmirketa.github.io/journal.html',
     
 
 
@@ -30,7 +30,7 @@ function populateNavbar()
 {
     // get reference to navbar
     var myNavbar = document.getElementById("my-navbar");
-    var serialNum = 0;
+    var serialNum = 1;
     for (var person in journalDetails)
     {
         // add a button for each person
